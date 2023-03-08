@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+ 
+}
+ 
+td {
+
+    font-family: quicksand, sans-serif;
+}
+th { 
+      font-size: 15px;
+      font-weight: 600;
+      font-family: Calibri Light, sans-serif;
+}
+
+tr:nth-child(even) {background-color: #fbfbfb;}
